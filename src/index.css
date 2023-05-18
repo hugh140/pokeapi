@@ -1,0 +1,14 @@
+.row {
+  gap: 10px;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.card:hover {
+  background-color: #EEEEEE;
+  transition: 0.1s ease;
+}
+
+#modal-img {
+  width: 200px;
+}
